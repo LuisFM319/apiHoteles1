@@ -7,6 +7,6 @@
 -Evidencias del consumo.docx: prueba realiza con el cliente SoapUi (Rest)
 
 -aplicacion ServicioWebApiHoteles,
-la cual presenta 2 proyectos(uno de base de datos y el otro del servicioApi-rest)
+la cual presenta 2 proyectos(uno de acceso a datos y el otro del servicioApi-rest)
 
 
