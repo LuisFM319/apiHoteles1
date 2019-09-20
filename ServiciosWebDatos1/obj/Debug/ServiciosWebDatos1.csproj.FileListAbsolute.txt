@@ -1,0 +1,10 @@
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\ServiciosWebDatos1.dll.config
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\ServiciosWebDatos1.dll
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\ServiciosWebDatos1.pdb
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\EntityFramework.dll
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\EntityFramework.SqlServer.dll
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\EntityFramework.xml
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\bin\Debug\EntityFramework.SqlServer.xml
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\obj\Debug\ServiciosWebDatos1.csprojResolveAssemblyReference.cache
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\obj\Debug\ServiciosWebDatos1.dll
+D:\LFM\PruebasCheil\Api\ServicioWebApiHoteles\ServiciosWebDatos1\obj\Debug\ServiciosWebDatos1.pdb
